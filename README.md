@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Likith ðŸ‘‹
 
-<!--
-**likithgowda314-cyber/likithgowda314-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer passionate about building modern Developer Tools (DX), Automation utilities, and AI-native applications. I enjoy finding real-world bottlenecks and writing clean, cross-platform code in **Python**, **Node.js**, and **Java** to solve them.
 
-Here are some ideas to get you started:
+### ðŸ› ï¸ Tech Stack
+*   **Languages:** Python, JavaScript (Node.js), Java
+*   **Concepts:** CLI Development, API Integrations, Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ðŸš€ Featured Projects
+*   [**port-reaper**](https://github.com/likithgowda314-cyber/port-reaper) - A lightning-fast Node.js CLI to find and safely terminate zombie ports.
+*   [**stack-sleuth**](https://github.com/likithgowda314-cyber/stack-sleuth) - A Python CLI that catches crashes and automatically fetches the top StackOverflow solution.
+*   [**context-weaver**](https://github.com/likithgowda314-cyber/context-weaver) - A utility to pack local repositories into LLM-optimized Markdown files.
+
+### ðŸ“« How to reach me
+Feel free to explore my repositories or open an issue if you'd like to collaborate!
