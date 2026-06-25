@@ -2,6 +2,8 @@
 
 I am a Software Engineer passionate about building modern Developer Tools (DX), Automation utilities, and AI-native applications. I enjoy finding real-world bottlenecks and writing clean, cross-platform code in **Python**, **Node.js**, and **Java** to solve them.
 
+🌐 **Portfolio:** [https://soft-crepe-9b499e.netlify.app/](https://soft-crepe-9b499e.netlify.app/)
+
 ### 🛠️ Tech Stack
 *   **Languages:** Python, JavaScript (Node.js), Java
 *   **Concepts:** CLI Development, API Integrations, Data Structures & Algorithms
